@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeus16", "Zeus16\Zeus16.csproj", "{AF061781-3B42-4E6F-A00E-5F075F084A69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeus16.Tests", "Zeus16.Tests\Zeus16.Tests.csproj", "{8B412991-108C-40C9-9B97-317ADD7998C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF061781-3B42-4E6F-A00E-5F075F084A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF061781-3B42-4E6F-A00E-5F075F084A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF061781-3B42-4E6F-A00E-5F075F084A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF061781-3B42-4E6F-A00E-5F075F084A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B412991-108C-40C9-9B97-317ADD7998C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B412991-108C-40C9-9B97-317ADD7998C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B412991-108C-40C9-9B97-317ADD7998C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B412991-108C-40C9-9B97-317ADD7998C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
